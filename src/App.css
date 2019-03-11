@@ -1,3 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.Card {
+  width: 700px;
+  margin: auto;
+}
+
 .App {
   text-align: center;
 }
